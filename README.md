@@ -1,7 +1,7 @@
 # Olá, me chamo Valdemar Santana.
 ## Bem vindo ao meu perfil GitHub! 👋
 
-Olá! Me chamo Valdemar Santana, tenho 34 anos e moro em Jaboatão dos Guararapes-PE, estou atualmente em processo de recolocação profissional. Sou oriundo da área de logística e apaixonado pelo mundo <strong>gamer e dev</strong>, isso que me atraiu para a área. No momento estou estudando <strong>HTML5, CSS3 e JavaScript</strong>. Foi as áreas que encontrei uma facilidade e um mercado mais amplo, para alguém que iniciou do absoluto zero a apenas 5 meses. Estou atualmente tendo como foco a área de FRONT-END, mas, não pretendo parar por ai. <strong>Esse é apenas o começo !!</strong>
+Olá! Me chamo Valdemar Santana, tenho 34 anos e moro em Jaboatão dos Guararapes-PE, estou atualmente em processo de recolocação profissional. Sou oriundo da área de logística e apaixonado pelo mundo <strong>gamer e dev</strong>, isso que me atraiu para a área. No momento estou estudando <strong>HTML5, CSS3 e JavaScript</strong>. Foi as áreas que encontrei uma facilidade e um mercado mais amplo, para alguém que iniciou do absoluto zero à apenas 5 meses. Estou atualmente tendo como foco a área de FRONT-END, mas, não pretendo parar por ai. <strong>Esse é apenas o começo !!</strong>
 
 <ul>
           <li>Meu foco inicial(básico), se teve nos cursos do site Cursoemvideo. Os quais me garantiu uma ótima base.</li>
