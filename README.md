@@ -3,10 +3,12 @@
 
 Olá! Me chamo Valdemar Santana, tenho 34 anos e moro em Jaboatão dos Guararapes-PE, estou atualmente em processo de recolocação profissional. Sou oriundo da área de logística e apaixonado pelo mundo <strong>gamer e dev</strong>, isso que me atraiu para a área. No momento estou estudando <strong>HTML5, CSS3 e JavaScript</strong>. Foi as áreas que encontrei uma facilidade e um mercado mais amplo, para alguém que iniciou do absoluto zero a apenas 5 meses. Estou atualmente tendo como foco a área de FRONT-END, mas, não pretendo parar por ai. <strong>Esse é apenas o começo !!</strong>
 
-Meu foco inicial(básico), se teve nos cursos do site Cursoemvideo. Os quais me garantiu uma ótima base.
-Meu foco em estudos atualmente está em cursos na plataforma UDEMY.
-E aos poucos, venho tentando realizar projetos próprios e melhorando os projetos que realizei, quando ainda só tinha a base, como métodos de construção.
-Espero em um futuro próximo, alcançar a tão sonhada vaga no mercado, e assim, poder contribuir com esse mercado que se expande mais e mais a cada dia.
+<ul>
+          <li>Meu foco inicial(básico), se teve nos cursos do site Cursoemvideo. Os quais me garantiu uma ótima base.</li>
+          <li>Meu foco em estudos atualmente está em cursos na plataforma UDEMY.</li> 
+          <li>E aos poucos, venho tentando realizar projetos próprios e melhorando os projetos que realizei, quando ainda só tinha a base, como métodos de construção.</li> 
+          <li>Espero em um futuro próximo, alcançar a tão sonhada vaga no mercado, e assim, poder contribuir com esse mercado que se expande mais e mais a cada dia.</li> 
+</ul>
 
 ## Ferramentas e Tecnologias
 
